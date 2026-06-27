@@ -1,0 +1,7 @@
+# Ghostty configuration
+# Docs: https://ghostty.org/docs/config
+
+# Use the installed Nerd Font so terminal apps (Neovim, neo-tree, etc.)
+# can render file-type icons and other glyphs.
+font-family = FiraCode Nerd Font
+font-size = 14
